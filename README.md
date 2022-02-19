@@ -1,6 +1,6 @@
-# Mobile-number-locator
+# Mobile-Tracking-System
 
-a simple python script to check where the mobile number was registered and generated. The script runs and opens a html doc to show the whereabouts of the number in a map.
+A python script to tracking the location of your mobile through your phone number. The script runs and opens a html doc to show the whereabouts of the number in a map.
 This was part of our Semester project demonstration. You can also read our project report in folder || Docs ||.
 
 
